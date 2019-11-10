@@ -19,4 +19,9 @@ public class MyTest {
 		assertTrue(true);
 	}
 	
+	@Test
+	void test4() {
+		assertTrue(true);
+	}
+	
 }
