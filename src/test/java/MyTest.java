@@ -23,5 +23,9 @@ public class MyTest {
 	void test4() {
 		assertTrue(true);
 	}
+	@Test
+	void test5() {
+		assertTrue(true);
+	}
 	
 }
